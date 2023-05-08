@@ -37,9 +37,7 @@ When the `main.sh` script is run, the screen will be cleared, and the user will 
 5. **Create A new Table inside Database:**  This option runs the `create_table.sh` script, which prompts the user to enter the name of the database in which the new table will be created, as well as the name and data types of each column in the new table. 
 6. **Insert A New Row in a Table:**  This option runs the `insert_row.sh` script, which prompts the user to enter the name of the database containing the table to which the new row will be added, the name of the table, and the values to be inserted into each column of the new row. 
 7. **Select Data from Table:**  This option runs the `select_data.sh` script, which prompts the user to enter the name of the database containing the table from which data will be selected, the name of the table, and the columns to be selected.
-## Testing
 
-To test the functionality of this project, you can use the MySQL command line client to connect to a local MySQL server and run commands against it.
 ## Contributing
 
 Contributions to this project are welcome. If you find a bug or have a feature request, please open an issue or submit a pull request.
